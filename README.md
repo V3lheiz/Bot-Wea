@@ -1,4 +1,4 @@
-## New Update
+## Backup Bot BOTCAHX
 
 **Pembaruan :**
 - Fix upload file [`File Hosting`](https://file.botcahx.eu.org)
@@ -85,4 +85,7 @@ Recode | Contributor |
 <a href="https://github.com/BochilGaming"><img src="https://github.com/BochilGaming.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
 ---|---
 [Bochilgaming](https://github.com/BochilGaming)  | [Nurutomo](https://github.com/Nurutomo)
-Sepuh | Sepuh |
+<a href="https://github.com/BOTCAHX"><img src="https://github.com/BOTCAHX.png?size=100" width="100" height="100"></a> | [![Erlan](https://github.com/ERLANRAHMAT.png?size=100)](https://github.com/ERLANRAHMAT) 
+---|---
+[Tio](https://github.com/BOTCAHX)  | [Erlan](https://github.com/ERLANRAHMAT)
+Sepuh | Sepuh | Sepuh | Sepuh
